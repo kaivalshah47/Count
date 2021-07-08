@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Ftp_Files_Count.py
+web: sh setup.sh && streamlit run FTP_Files_Count.py
